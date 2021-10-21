@@ -3,6 +3,7 @@
     "name": "mobile-heat",
     "slug": "mobile-heat",
     "version": "1.0.0",
+    "scheme": "mobile-heat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
