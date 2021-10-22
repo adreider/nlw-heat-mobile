@@ -30,7 +30,8 @@ export function Button({ title, color, backgroundColor, icon, isLoading = false,
             <Text style={[styles.title, { color }]}>
               {title}
             </Text>
-          </>}
+          </>
+      }
 
     </TouchableOpacity>
   );
