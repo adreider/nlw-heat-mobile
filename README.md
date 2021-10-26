@@ -13,11 +13,11 @@ Projeto desenvolvido no evento NlW HEAT da Rocketseat 💜
 - Socket.io
 - Moti
 
-## Layout
+## Layout 🚀
 
 <p>
 <a href="https://www.figma.com/file/2F2n5oiym69eipkW3rShYe/?node-id=61419%3A92">
 link
 </a>
-layout figma
+layout figma 🖌
 </p>
